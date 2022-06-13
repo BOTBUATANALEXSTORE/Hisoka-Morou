@@ -1,7 +1,7 @@
 /**
    * Create By Dika Ardnt.
-   * Contact Me on wa.me/6288292024190
-   * Follow https://github.com/DikaArdnt
+   * Contact Me on wa.me/6283167581315
+   * Follow https://github.com/BOTBUATANALEXSTORE
 */
 
 const fs = require('fs')
